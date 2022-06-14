@@ -1,0 +1,9 @@
+<toolSet name="Remote Tools">
+  <tool name="test" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="NONE">
+    <exec>
+      <option name="COMMAND" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+    </exec>
+  </tool>
+</toolSet>
