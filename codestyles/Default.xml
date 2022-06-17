@@ -9,6 +9,7 @@
     <option name="KEEP_BLANK_LINES_BETWEEN_PACKAGE_DECLARATION_AND_HEADER" value="0" />
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
     <option name="BLANK_LINES_BEFORE_IMPORTS" value="0" />
+    <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
     <arrangement>
       <groups>
         <group>
