@@ -22,6 +22,17 @@
             <PluginData />
           </value>
         </entry>
+        <entry key="de.docs_as_co.intellij.plugin.diagramsnet">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="ru.adelf.idea.dotenv">
           <value>
             <PluginData>
